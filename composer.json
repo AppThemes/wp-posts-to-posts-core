@@ -1,0 +1,8 @@
+{
+	"name": "appthemes/wp-posts-to-posts-core",
+	"description": "The kernel of the Posts 2 Posts plugin",
+	"license": "GPL-2.0",
+	"require": {
+		"scribu/scb-framework": "dev-master"
+	}
+}
